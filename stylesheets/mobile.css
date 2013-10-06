@@ -177,7 +177,7 @@ header h1 {
 
 header h2 {
   background-color: #7c334f;
-  font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
+  font: bold italic .7em/1.5 Georgia, Times, “Times New Roman”, serif;
   color: #e69b95;
   padding-bottom: 14px;
   margin-top: -3px;
@@ -243,7 +243,7 @@ footer span.ribbon-inner {
 footer p {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
-  font-size: .6em;
+  font-size: .5em;
   color: #8b786f;
 }
 
@@ -255,7 +255,7 @@ footer span.ribbon-inner p {
   background-color: #7c334f;
   margin: 0;
   color: #e69b95;
-  font: bold italic 22px/1 Georgia, Times, “Times New Roman”, serif;
+  font: italic 18px/1 Georgia, Times, “Times New Roman”, serif;
   height: auto;
   line-height: 1.1;
   padding: 20px 0px 10px;
@@ -270,7 +270,7 @@ footer span.ribbon-inner a {
   text-transform: uppercase;
   font-style: normal;
   font-weight: bolder;
-  font-size: 38px;
+  font-size: 18px;
   padding-bottom: 10px;
 }
 
@@ -310,7 +310,7 @@ footer span.octocat {
 
 body {
   background: #ece4d8;
-  font: normal normal 30px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+  font: normal normal 20px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
   color: #544943;
   -webkit-font-smoothing: antialiased;
 }
@@ -488,7 +488,7 @@ dd p:first-child {
 
 .header-level-3 {
   margin: 20px 0 10px;
-  font-size: 1.45em;
+  font-size: 1.38em;
 }
 
 .header-level-4 {

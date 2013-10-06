@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function check() {
         $('#main_content').headsmart()
 		var elements = document.getElementsByTagName("INPUT");
 		for (var i = 0; i < elements.length; i++) {
@@ -12,7 +12,18 @@ $(document).ready(function () {
             e.target.setCustomValidity("");
         };
     }
-       
+       if(elements != "19851007")
+		{
+		elements[1].oninvalid = function(e) {
+            e.target.setCustomValidity("");
+			e.target.setCustomValidity("Man, who are you?");
+            }
+		}
+		else
+		{
+		document.birthday.submit();
+		}
+	   
       }
 	  
 	  )
