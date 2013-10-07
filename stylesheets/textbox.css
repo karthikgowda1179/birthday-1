@@ -6,7 +6,7 @@
     box-shadow: 0 0 2px rgba(0, 0, 0, .8) inset;
 }
 .form-wrapper input {
-    width: 340px;
+    width: 345px;
     height: 20px;
     padding: 10px 5px;
 	position: relative;
@@ -25,7 +25,7 @@
     overflow: visible;
     position: relative;
     border: 0;
-    padding: 0;
+    padding: 2px;
     cursor: pointer;
     height: 40px;
     width: 150px;
