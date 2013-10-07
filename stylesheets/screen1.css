@@ -430,7 +430,7 @@ img {
   border: 2px solid #fff6e9;
   max-width: 502px;
   position: relative;
-  left: 170px;
+  left: 0px;
 }
 
 hr {
@@ -466,7 +466,7 @@ table {
   width: 100%;
   border-collapse: separate;
   border-bottom: 0px solid #bdb6ad;
-  margin: 5px 0;
+  margin: 1px 0;
 }
 
 tr {

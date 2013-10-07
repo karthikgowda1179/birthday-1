@@ -9,20 +9,10 @@ $(document).ready(function check() {
             }
         };
         elements[i].oninput = function(e) {
-            e.target.setCustomValidity("");
+            e.target.setCustomValidity("Are you guessing your age?");
         };
     }
-       if(elements != "19851007")
-		{
-		elements[1].oninvalid = function(e) {
-            e.target.setCustomValidity("");
-			e.target.setCustomValidity("Man, who are you?");
-            }
-		}
-		else
-		{
-		document.birthday.submit();
-		}
+       
 	   
       }
 	  

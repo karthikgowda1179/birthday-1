@@ -13,7 +13,7 @@
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
-	<script type="text/javascript" src="javascripts/main.js"></script>
+	<script type="text/javascript" src="javascripts/fifth.js"></script>
 	<link rel="stylesheet" type="text/css" href="stylesheets/textbox.css">
 	
     <title>Simple Questions</title>
@@ -25,7 +25,7 @@
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             <h1>Simple Questions</h1>
-            <h2>No one knows the answer except you.</h2>
+            <h2>No one knows the answers except you.</h2>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -35,18 +35,16 @@
       <section id="main_content">  
 		<h3> </h3>
         <h3>
-		<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>When were you born?</h3>
-		<form name="birthday" action="capricorn" method="POST" onsubmit="return check()">
-		<div class="form-wrapper">
-		<input type="text" name="Enter" placeholder="Just like 19890104..." required="required" pattern="[1]{1}[9]{1}[8]{1}[5]{1}[1]{1}[0]{1}[0]{1}[7]{1}" value="" id="date" class="user-error" aria-invalid="true">
-		<button type="submit" value="submit">Enter</button>
-		</div>
-		</form>
-      </section>
+		<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>This is a sample test. Scan it.</h3>
+
+		<img id="chart" src="images/qr_chart05.png"></img>
+      </section> 
+	  
+	  <table> </table>
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <p>TOO QUIET? HOW ABOUT SOME BEAUTIFUL <a href="http://www.youtube.com/watch?v=fm0T7_SGee4" target="_blank">MUSIC</a>?</p>
+            <p>TOO QUIET? HOW ABOUT SOME BEAUTIFUL <a href="http://www.youtube.com/watch?v=hLQl3WQQoQ0" target="_blank">MUSIC</a>?</p>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
